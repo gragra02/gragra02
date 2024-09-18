@@ -7,7 +7,6 @@
 - 🎓 Formada em Produção Multimídia.
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** (faltam 6 meses!).
 - 🎓 Pós-graduanda em **Engenharia de Dados**.
-- 🔎 Fascinada por identificar padrões e resolver problemas com **dados**.
 - 🎮 Nas horas vagas, você me encontrará jogando videogames, jogando boardgames ou montando quebra-cabeças.
 
 ---
