@@ -13,10 +13,19 @@
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens de Programação:** Python, SQL, Angular
-- **Ferramentas:** Git, GitHub, MySQL, Moodle
-- **Frameworks:** Angular
-
+<div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />
+ 
+  
+<div/>     
+          
 ---
 
 ## 📈 Meus Projetos
