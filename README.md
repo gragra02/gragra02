@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou a Graziele! 
-### 🎮 Desenvolvedora, entusiasta de tecnologia e amante de jogos
+### 🎮 Desenvolvedora Junior, entusiasta de tecnologia e amante de jogos
 
 ---
 
