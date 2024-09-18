@@ -29,7 +29,7 @@
 ---
 
 ## 📈 Meus Projetos
-[🔗 Repositório: curriculo-grazi](https://github.com/gragra02/curriculo-grazi)
+[🔗 Repositório: Grazi](https://github.com/gragra02?tab=repositories)
 
 Aqui você encontra meu repositório de aprendizado e experimentação com Git.
 
@@ -39,6 +39,7 @@ Aqui você encontra meu repositório de aprendizado e experimentação com Git.
 
 ![Graziele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gragra02&show_icons=true&theme=radical)
 
+---
 
 ## 📫 Vamos nos conectar?
 
@@ -47,5 +48,11 @@ Aqui você encontra meu repositório de aprendizado e experimentação com Git.
 <a href = "mailto:gragra02@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/graziele-da-silva-pcd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+---
+
+![Codelikeagirl GIF](https://media1.tenor.com/m/2SeTinGEKNQAAAAd/codelikeagirl.gif)
+
+
 
 
