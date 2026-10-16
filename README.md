@@ -2,22 +2,22 @@
 
 ### 💻 Tecnologia, investigação de problemas e análise de dados
 
-Sou profissional de tecnologia, com experiência em suporte a aplicações, formação em Engenharia de Dados e graduação em Análise e Desenvolvimento de Sistemas.
+Tenho experiência em suporte a aplicações corporativas, análise de incidentes e investigação de causa raiz. Sou pós-graduada em Engenharia de Dados, tecnóloga em Produção Multimídia Bilíngue pelo IFSC e estudante de Análise e Desenvolvimento de Sistemas.
 
-Gosto de entender como as coisas funcionam, investigar problemas e buscar soluções. Atualmente, estou ampliando meus conhecimentos em **Segurança da Informação**, explorando uma área que combina análise, atenção aos detalhes e investigação.
+Gosto de entender como as coisas funcionam, identificar padrões e buscar soluções. Atualmente, também estou ampliando meus conhecimentos em **Segurança da Informação**.
 
 ---
 
 ## 👩‍💻 Um pouco sobre mim
 
-- 🔎 Gosto de investigar problemas, analisar informações e entender suas causas.
-- 💼 Tenho experiência com suporte a aplicações corporativas, análise de incidentes e atendimento técnico N1/N2.
-- 📊 Tenho interesse em análise de dados e em como a tecnologia pode ajudar a resolver problemas reais.
-- 🔐 Estou estudando Segurança da Informação e conhecendo melhor áreas como monitoramento, detecção de ameaças e investigação de incidentes.
-- 🎓 Pós-graduada em Engenharia de Dados pela UNOPAR.
-- 🎓 Tecnóloga em Produção Multimídia Bilíngue pelo IFSC e estudante de Análise e Desenvolvimento de Sistemas.
+- 🔎 Experiência com investigação de problemas, análise de incidentes e melhoria de processos.
+- 💼 Atuação em suporte a aplicações corporativas N1/N2.
+- 📊 Interesse em análise de dados e em transformar informações em respostas para problemas reais.
+- 🔐 Em aprendizado em Segurança da Informação, monitoramento e investigação de incidentes.
+- 🎓 Pós-graduada em Engenharia de Dados (UNOPAR).
+- 🎓 Tecnóloga em Produção Multimídia Bilíngue (IFSC) e estudante de ADS.
 
-Minha trajetória não foi uma linha reta, e gosto de pensar que cada experiência contribuiu para a profissional que estou construindo hoje.
+Minha trajetória não foi uma linha reta. Cada experiência me trouxe uma perspectiva diferente e faz parte da profissional que estou construindo hoje.
 
 ---
 
@@ -26,6 +26,10 @@ Minha trajetória não foi uma linha reta, e gosto de pensar que cada experiênc
 **Dados e desenvolvimento**
 
 `Python` · `Pandas` · `NumPy` · `SQL` · `SQL Server` · `Jupyter Notebook` · `Streamlit` · `Plotly`
+
+**Backend e aplicações**
+
+`Java` · `Spring Boot` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Django`
 
 **Suporte e análise de problemas**
 
@@ -39,25 +43,37 @@ Minha trajetória não foi uma linha reta, e gosto de pensar que cada experiênc
 
 ## 🚀 Projetos em destaque
 
-### 📊 [Quanto Custa Esperar?](https://github.com/gragra02/projeto-inss)
+### 🔎 [Estudos de caso: investigação e causa raiz](https://gragra02.github.io/)
 
-Projeto de análise de dados públicos do INSS para investigar o impacto dos atrasos na concessão de benefícios. Utiliza dados e visualizações para transformar informações em algo mais fácil de entender.
+Relatos de experiências profissionais sobre identificação de padrões, análise de ocorrências recorrentes e melhoria de processos.
 
-**Tecnologias:** Python, Pandas, NumPy, Jupyter Notebook e Streamlit.
+### ☕ [Purchase Transaction API](https://github.com/gragra02/purchase-transaction-api)
 
-### 📚 [EDA Books — Dashboard](https://github.com/gragra02/eda-books-streamlit-dashboard)
+API desenvolvida com Java e Spring Boot para registrar e consultar transações de compra e converter valores usando taxas de câmbio. O projeto inclui documentação OpenAPI e testes automatizados.
 
-Dashboard interativo de análise exploratória de dados, desenvolvido para explorar informações e apresentar resultados por meio de visualizações.
+**Tecnologias:** Java, Spring Boot, Spring Data JDBC, H2 e Gradle.
 
-**Tecnologias:** Python, Pandas e Streamlit.
+### 📊 [EDA Books — Dashboard](https://github.com/gragra02/eda-books-streamlit-dashboard)
 
-### 🌐 [Meu portfólio](https://gragra02.github.io/)
+Dashboard interativo para explorar dados de livros, filtrar por faixa de preço e visualizar distribuições por meio de gráficos.
 
-Um espaço para reunir projetos, experiências profissionais e estudos desenvolvidos ao longo da minha trajetória em tecnologia.
+**Tecnologias:** Python, Pandas, Streamlit e Plotly.
+
+### 🛍️ [TechNova Store](https://github.com/gragra02/lojatechnova-store-django)
+
+Projeto acadêmico em Django com modelagem de dados para uma loja virtual, painel administrativo e assistente virtual que consulta produtos e categorias.
+
+**Tecnologias:** Python, Django, SQLite, HTML, CSS e JavaScript.
+
+### 🧩 [Quanto Custa Esperar?](https://github.com/gragra02/quanto-custa-esperar)
+
+Projeto em desenvolvimento com a proposta de analisar impactos financeiros e sociais da demora na concessão de benefícios do INSS, utilizando dados públicos.
+
+**Tecnologias planejadas:** Python, Pandas, NumPy, Plotly e Streamlit.
 
 ---
 
-## 📈 Um pouco do meu GitHub
+## 📈 GitHub Stats
 
 ![Estatísticas do GitHub da Graziele](https://github-readme-stats.vercel.app/api?username=gragra02&show_icons=true&theme=radical)
 
