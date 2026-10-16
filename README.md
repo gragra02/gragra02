@@ -1,57 +1,73 @@
-# 👋 Olá, eu sou a Graziele!
-### 💼 Profissional de TI | Suporte de Aplicações (N1/N2) & Análise de Dados
+# 👋 Olá! Eu sou a Graziele
+
+### 💻 Tecnologia, investigação de problemas e análise de dados
+
+Sou profissional de tecnologia, com experiência em suporte a aplicações, formação em Engenharia de Dados e graduação em Análise e Desenvolvimento de Sistemas.
+
+Gosto de entender como as coisas funcionam, investigar problemas e buscar soluções. Atualmente, estou ampliando meus conhecimentos em **Segurança da Informação**, explorando uma área que combina análise, atenção aos detalhes e investigação.
 
 ---
 
-## 👩‍💻 Sobre mim
-- 🏦 Experiência em suporte a sistemas corporativos críticos — plataforma GPS, utilizada por gerentes do Itaú (NTT DATA Brasil)
-- 📉 Redução de TMA de 5 dias para 1 dia através de análise de causa raiz
-- 🎓 Pós-graduanda em **Engenharia de Dados** (UNOPAR)
-- 🎓 Tecnóloga em Produção Multimídia Bilíngue (IFSC) | Cursando ADS (faltam 6 meses)
-- 📊 Interesse em aplicar IA a contextos de negócio e análise de dados
+## 👩‍💻 Um pouco sobre mim
+
+- 🔎 Gosto de investigar problemas, analisar informações e entender suas causas.
+- 💼 Tenho experiência com suporte a aplicações corporativas, análise de incidentes e atendimento técnico N1/N2.
+- 📊 Tenho interesse em análise de dados e em como a tecnologia pode ajudar a resolver problemas reais.
+- 🔐 Estou estudando Segurança da Informação e conhecendo melhor áreas como monitoramento, detecção de ameaças e investigação de incidentes.
+- 🎓 Pós-graduada em Engenharia de Dados pela UNOPAR.
+- 🎓 Tecnóloga em Produção Multimídia Bilíngue pelo IFSC e estudante de Análise e Desenvolvimento de Sistemas.
+
+Minha trajetória não foi uma linha reta, e gosto de pensar que cada experiência contribuiu para a profissional que estou construindo hoje.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-<div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" />
-</div>
+## 🛠️ Tecnologias e ferramentas
 
-`Python (Pandas)` · `SQL` · `SQL Server` · `Streamlit` · `Plotly` · `Git` · `Linux/Bash` · `Infraestrutura em nuvem (VMs, PostgreSQL, SSH)`
+**Dados e desenvolvimento**
 
----
+`Python` · `Pandas` · `NumPy` · `SQL` · `SQL Server` · `Jupyter Notebook` · `Streamlit` · `Plotly`
 
-## 📈 Projetos em destaque
+**Suporte e análise de problemas**
 
-**[Quanto Custa Esperar?](https://github.com/gragra02/projeto-inss)**
-Análise de dados públicos do INSS sobre o custo (tempo e dinheiro) de atrasos na concessão de benefícios.
+`Jira` · `ServiceNow` · `Excel` · `Análise de Incidentes` · `Análise de Causa Raiz`
 
-**[eda-books-streamlit-dashboard](https://github.com/gragra02/eda-books-streamlit-dashboard)**
-Dashboard interativo de análise exploratória de dados construído com Streamlit.
+**Em aprendizado**
 
-**[Portfólio completo](https://gragra02.github.io/)**
-Estudos de caso da experiência em suporte na NTT DATA e no IMA/SC.
+`Segurança da Informação` · `Linux` · `Redes de Computadores` · `Monitoramento de Segurança`
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos em destaque
 
+### 📊 [Quanto Custa Esperar?](https://github.com/gragra02/projeto-inss)
 
+Projeto de análise de dados públicos do INSS para investigar o impacto dos atrasos na concessão de benefícios. Utiliza dados e visualizações para transformar informações em algo mais fácil de entender.
 
-![Graziele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gragra02&show_icons=true&theme=radical)
+**Tecnologias:** Python, Pandas, NumPy, Jupyter Notebook e Streamlit.
 
+### 📚 [EDA Books — Dashboard](https://github.com/gragra02/eda-books-streamlit-dashboard)
 
+Dashboard interativo de análise exploratória de dados, desenvolvido para explorar informações e apresentar resultados por meio de visualizações.
+
+**Tecnologias:** Python, Pandas e Streamlit.
+
+### 🌐 [Meu portfólio](https://gragra02.github.io/)
+
+Um espaço para reunir projetos, experiências profissionais e estudos desenvolvidos ao longo da minha trajetória em tecnologia.
+
+---
+
+## 📈 Um pouco do meu GitHub
+
+![Estatísticas do GitHub da Graziele](https://github-readme-stats.vercel.app/api?username=gragra02&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-<div>
-<a href="mailto:gragra02@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/graziele-da-silva-pcd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gragra02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele-da-silva-pcd)
+
+---
+
+*Aprendendo, investigando e construindo novos caminhos na tecnologia.*
